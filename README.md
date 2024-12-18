@@ -1,1 +1,1 @@
-# Competition_Article
+# 実際に挑戦したコンペのまとめ記事
